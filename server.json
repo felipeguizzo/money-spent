@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1000,
+      "createdAt": "2022-08-24T14:25:49.662Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-08-24T14:30:49.662Z"
+    },
+    {
+      "description": "Ifood",
+      "price": 25,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-08-25T17:54:45.748Z",
+      "id": 3
+    },
+    {
+      "description": "Roupas",
+      "price": 500,
+      "category": "Vestuário",
+      "type": "income",
+      "createdAt": "2022-08-25T18:17:13.906Z",
+      "id": 4
+    }
+  ]
+}
